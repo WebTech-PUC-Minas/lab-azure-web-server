@@ -40,6 +40,13 @@ Caso não apareça a opção "Virtual machines", na barra de pesquisa ("Search r
 </div>
 </p>
 
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 13-15-30 Microsoft Azure (botao &apos;virtual machines&apos;).png" alt="Opções do 'Azure services': 'Virtual machines', 'Education', 'Monitor', 'Storage accounts', 'Subscriptions', 'All resources', 'Quickstart Center', 'App Services', 'More services'. A opção 'Virtual machines' está contornada por uma moldura vermelha."></div>
+    <div><span>Clique em 'Virtual machines'</span></div>
+</div>
+</p>
+
 No menu "Virtual machines" (Máquinas Virtuais), clique no botão "Create", e depois em "Azure virtual machine".
 
 <p>
@@ -51,8 +58,22 @@ No menu "Virtual machines" (Máquinas Virtuais), clique no botão "Create", e de
 
 <p>
 <div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 13-11-49 Microsoft Azure (botao &apos;Create&apos;).png" alt="Menu 'Virtual machines'. Barra superior com os botões: 'Create', 'Switch to classic', 'Reservations', 'Manage view', 'Refresh', 'Export to CSV', 'Open query', 'Assign tags', 'Start', 'Restart', 'Stop', 'Delete', 'Services', 'Maintenance'. O botão 'Create' está contornado por uma moldura vermelha."></div>
+    <div><span>Clique em 'Create'</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
     <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 13-42-05 Microsoft Azure.png" alt="Opções de 'Create' em 'Virtual machine': 'Azure virtual machine', 'Azure virtual machine with preset configuration', 'More VMs and related solutions'."></div>
     <div><span>Opções de 'Create' em 'Virtual machine'</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 13-42-05 Microsoft Azure (botao &apos;Azure virtual machine&apos;).png" alt="Opções de 'Create' em 'Virtual machine': 'Azure virtual machine', 'Azure virtual machine with preset configuration', 'More VMs and related solutions'. A opção 'Azure virtual machine' está contornada por uma moldura vermelha."></div>
+    <div><span>Clique em 'Azure virtual machine'</span></div>
 </div>
 </p>
 
@@ -297,8 +318,15 @@ Clique no botão "Download private key and create resource" (Baixar chave privad
 
 <p>
 <div style="border: 2px solid black; display: block;">
-    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_29_52.png" alt="Caixa de aviso: 'Generate new key pair'"></div>
-    <div><span></span></div>
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_29_52.png" alt="Caixa de aviso com o título: 'Generate new key pair', e um texto: 'An SSH key pair contains both a public key and a private key. Azure doesn't store private key. After the SSH key resource is created, you won't be able to download the private key again. Learn more', e os botões 'Download private key and create resource' e 'Return to create a virtual machine'."></div>
+    <div><span>Caixa de aviso para gerar um par de chaves</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_29_52 (botao &apos;Download private key and create resource&apos;).png" alt="Caixa de aviso com o título: 'Generate new key pair', e um texto: 'An SSH key pair contains both a public key and a private key. Azure doesn't store private key. After the SSH key resource is created, you won't be able to download the private key again. Learn more', e os botões 'Download private key and create resource' e 'Return to create a virtual machine'. O botão 'Download private key and create resource' está contornado de uma moldura vermelha."></div>
+    <div><span>Clique em 'Download private key and create resource'</span></div>
 </div>
 </p>
 
@@ -610,6 +638,13 @@ Caso não apareça a opção "Virtual machines", na barra de pesquisa ("Search r
 <div style="border: 2px solid black; display: block;">
     <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 13-15-30 Microsoft Azure.png" alt="Opções do 'Azure services': 'Virtual machines', 'Education', 'Monitor', 'Storage accounts', 'Subscriptions', 'All resources', 'Quickstart Center', 'App Services', 'More services'."></div>
     <div><span>Opções do Azure services</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 13-15-30 Microsoft Azure (botao &apos;virtual machines&apos;).png" alt="Opções do 'Azure services': 'Virtual machines', 'Education', 'Monitor', 'Storage accounts', 'Subscriptions', 'All resources', 'Quickstart Center', 'App Services', 'More services'. A opção 'Virtual machines' está contornada por uma moldura vermelha."></div>
+    <div><span>Clique em 'Virtual machines'</span></div>
 </div>
 </p>
 
