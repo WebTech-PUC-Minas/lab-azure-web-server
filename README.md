@@ -411,12 +411,19 @@ Será mostrada a máquina virtual recém-criada.
 
 <p>
 <div style="border: 2px solid black; display: block;">
-    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 14-33-16 Microsoft Azure.png" alt="Menu Overview da máquina virtual recém-criada. No sub-menu 'Essentials' contém o atributo 'Public IP address', que neste exemplo é 172.190.229.207"></div>
+    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 18-19-18 Microsoft Azure.png" alt="Menu Overview da máquina virtual recém-criada. No sub-menu 'Essentials' contém o atributo 'Public IP address', que neste exemplo é 172.190.229.207"></div>
     <div><span>Menu Overview da máquina virtual recém-criada</span></div>
 </div>
 </p>
 
 Nesse menu, em "**Overview**", em "**Essentials**", em "**Public IP address**", copie o endereço IP público para a área de transferênca.
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 18-19-18 Microsoft Azure (endereco ip publico).png" alt="Menu Overview da máquina virtual recém-criada. No sub-menu 'Essentials' contém o atributo 'Public IP address', que neste exemplo é 172.190.229.207"></div>
+    <div><span>Copie o endereço IP Público da máquina virtual Azure</span></div>
+</div>
+</p>
 
 Em um editor de texto de sua preferência, cole esse endereço IP. Em breve ele será utilizado.
 
