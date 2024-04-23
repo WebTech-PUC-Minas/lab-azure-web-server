@@ -116,6 +116,13 @@ No menu "Create a virtual machine" (criar uma máquina virtual):
 
 E clique no botão "Next : Disks >" (Próximo: Discos).
 
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-13_48_59 (botao &apos;Next disks&apos;).png"></div>
+    <div><span>Clique no botão 'Next: Disks'</span></div>
+</div>
+</p>
+
 **OS disk (Disco de Sistema Operacional)**:
 
 - Em "OS disk type" (tipo de disco de sistema operacional), selecione ```Standard HDD (locally-redundant storage)```.
@@ -128,6 +135,13 @@ E clique no botão "Next : Disks >" (Próximo: Discos).
 </p>
 
 E clique no botão "Next : Networking >" (Próximo: Rede).
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-13_58_48 (botao &apos;Next networking&apos;).png"></div>
+    <div><span>Clique no botão "Next : Networking >"</span></div>
+</div>
+</p>
 
 **Network interface (Interface de rede)**:
 
@@ -154,12 +168,26 @@ Clique no botão "Next : Management >" (Próximo: Gerenciamento).
 </div>
 </p>
 
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_02_19 (botao &apos;Next management&apos;).png"></div>
+    <div><span>Clique no botão "Next : Management >"</span></div>
+</div>
+</p>
+
 Clique no botão "Next : Monitoring >" (Próximo: Monitoramento).
 
 <p>
 <div style="border: 2px solid black; display: block;">
     <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_04_53.png"></div>
     <div><span>Configuração da seção 'Management' da máquina virtual que será criada</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_04_53 (botao &apos;Next monitoring&apos;).png"></div>
+    <div><span>Clique no botão "Next : Monitoring >"</span></div>
 </div>
 </p>
 
@@ -172,6 +200,13 @@ Clique no botão "Next : Advanced >" (Próximo: Avançado).
 </div>
 </p>
 
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_07_34 (botao &apos;Next advanced&apos;).png"></div>
+    <div><span>Clique no botão "Next : Advanced >"</span></div>
+</div>
+</p>
+
 Clique no botão "Next : Tags >" (Próximo: Tags).
 
 <p>
@@ -181,12 +216,26 @@ Clique no botão "Next : Tags >" (Próximo: Tags).
 </div>
 </p>
 
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_10_15 (botao &apos;Next Tags&apos;).png"></div>
+    <div><span>Clique no botão "Next : Tags >"</span></div>
+</div>
+</p>
+
 Clique no botão "Review + create" (Revisar + Criar).
 
 <p>
 <div style="border: 2px solid black; display: block;">
     <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_12_26.png"></div>
     <div><span>Configuração da seção 'Tags' da máquina virtual que será criada</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_12_26 (botao &apos;Next review create&apos;).png"></div>
+    <div><span>Clique no botão "Review + create"</span></div>
 </div>
 </p>
 
@@ -309,8 +358,16 @@ Proximity placement group
 None
 Capacity reservation group
 None
+Com os botões 'Previous' e 'Create'.
 "></div>
     <div><span>Review da máquina virtual que será criada</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_15_12 (botao &apos;Create&apos;).png" alt="Review da máquina virtual que será criada. Com os botões 'Previous' e 'Create'. O botão 'Create' está contornado por uma moldura vermelha."></div>
+    <div><span>Clique em 'Create'</span></div>
 </div>
 </p>
 
@@ -340,6 +397,13 @@ E clique no botão "Go to resource" (Ir para o recurso).
 <div style="border: 2px solid black; display: block;">
     <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_32_31.png" alt="Menu de deployment com mensagem 'Your deployment is complete', com os botões: 'Go to resource', 'Create another VM'"></div>
     <div><span>Menu de deployment com mensagem 'Your deployment is complete'</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/screencapture-portal-azure-2024-04-23-14_32_31 (botao &apos;Go to resource&apos;).png" alt="Menu de deployment com mensagem 'Your deployment is complete', com os botões: 'Go to resource', 'Create another VM'. O botão 'Go to resource' está contornado de uma moldura vermelha'."></div>
+    <div><span>Clique em 'Go to resource'</span></div>
 </div>
 </p>
 
