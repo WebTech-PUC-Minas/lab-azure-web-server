@@ -471,3 +471,13 @@ Na janela do terminal aperte as seguintes teclas:
 ```Ctrl + C``` ou ```Command + C``` (no Mac).
 
 E digite o comando novamente.
+
+## Contato
+
+Henrique Mendonça Castelar Campos - [henriquemendonacastelar@gmail.com](mailto:henriquemendonacastelar@gmail.com)
+
+GitHub: [github.com/Henriquemcc](https://github.com/Henriquemcc)
+
+## License
+
+Este projeto é licenciado sob a [MIT License](https://mit-license.org/) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
