@@ -591,6 +591,67 @@ substituindo ```<ENDEREÇO IP DA MÁQUINA VIRTUAL AZURE>``` pelo endereço IP da
 </div>
 </p>
 
+### STEP 4 - **IMPORTANTE** - Pare o servidor web
+
+Para evitar que a máquina virtual do Azure consuma todo o seu crédito (US$100), é importante parar a execução da máquina virtual quando ela não estiver mais sendo utilizada.
+
+No [console do Microsoft Azure](https://portal.azure.com/), em Azure services, clique em "Virtual machines" (Máquinas Virtuais).
+
+Caso não apareça a opção "Virtual machines", na barra de pesquisa ("Search resources, services, and docs (G+/)"), digite "Virtual machines", e clique na primeira opção.
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 13-11-41 Microsoft Azure.png" alt="Tela inicial do Microsoft Azure. No topo dela aparece 'Azure Services'."></div>
+    <div><span>Tela inicial do Micrsoft Azure</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Criar_maquina_virtual/Screenshot 2024-04-23 at 13-15-30 Microsoft Azure.png" alt="Opções do 'Azure services': 'Virtual machines', 'Education', 'Monitor', 'Storage accounts', 'Subscriptions', 'All resources', 'Quickstart Center', 'App Services', 'More services'."></div>
+    <div><span>Opções do Azure services</span></div>
+</div>
+</p>
+
+No menu "Virtual machines" (Máquinas Virtuais), clique na caixa de seleção no canto superior esquerdo. E depois clique no botão "Stop".
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Parar_maquina_virtual/Screenshot 2024-04-23 at 17-12-28 Microsoft Azure.png" alt="Menu 'Virtual machines'. Barra superior com os botões: 'Create', 'Switch to classic', 'Reservations', 'Manage view', 'Refresh', 'Export to CSV', 'Open query', 'Assign tags', 'Start', 'Restart', 'Stop', 'Delete', 'Services', 'Maintenance'. Lista de máquinas virtuais, com a máquina virtual 'Web-Server'."></div>
+    <div><span>Menu 'Virtual machines'</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Parar_maquina_virtual/Screenshot 2024-04-23 at 17-12-34 Microsoft Azure.png" alt="Menu 'Virtual machines'. Barra superior com os botões: 'Create', 'Switch to classic', 'Reservations', 'Manage view', 'Refresh', 'Export to CSV', 'Open query', 'Assign tags', 'Start', 'Restart', 'Stop', 'Delete', 'Services', 'Maintenance'. Lista de máquinas virtuais, com a máquina virtual 'Web-Server' selecionada."></div>
+    <div><span>Menu 'Virtual machines' com a máquina virtual 'Web-Server selecionada'</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Parar_maquina_virtual/Screenshot 2024-04-23 at 17-12-34 Microsoft Azure (botao stop).png" alt="Menu 'Virtual machines'. Barra superior com os botões: 'Create', 'Switch to classic', 'Reservations', 'Manage view', 'Refresh', 'Export to CSV', 'Open query', 'Assign tags', 'Start', 'Restart', 'Stop', 'Delete', 'Services', 'Maintenance'. O botão stop está contornado por uma moldura vermelha. Lista de máquinas virtuais, com a máquina virtual 'Web-Server' selecionada."></div>
+    <div><span>Clique em 'Stop'</span></div>
+</div>
+</p>
+
+Uma caixa de mensagem aparecerá perguntando se deseja parar todas as máquinas virtuais. Clique em 'Yes'.
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Parar_maquina_virtual/Screenshot 2024-04-23 at 17-15-21 Microsoft Azure.png" alt="Caixa de mensagem com o título: 'Do you want to stop all the selected virtual machines', e com um texto: 'This operation will stop all the virtual machines selected below', e os botões 'Yes' (em azul) e 'No' (em branco)."></div>
+    <div><span>Caixa de mensagem perguntando se deseja parar todas as máquinas virtuais</span></div>
+</div>
+</p>
+
+<p>
+<div style="border: 2px solid black; display: block;">
+    <div><img src="Imagens/Parar_maquina_virtual/Screenshot 2024-04-23 at 17-15-21 Microsoft Azure (botao yes).png" alt="Caixa de mensagem com o título: 'Do you want to stop all the selected virtual machines', e com um texto: 'This operation will stop all the virtual machines selected below', e os botões 'Yes' (em azul) e 'No' (em branco). O botão 'Yes' está contornado com uma moldura vermelha."></div>
+    <div><span>Clique em 'Yes'</span></div>
+</div>
+</p>
+
 ### Solução de problemas
 
 #### Erro: "Warning: Unprotected private key file!"
